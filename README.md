@@ -10,3 +10,12 @@ https://app.moqups.com/tiwari.v/esNtxSO5G3/view
 
 ### Home Page
 ![Home](Moqups/Home.png)
+
+### Login Page
+![Login](Moqups/Login.png)
+
+### Find an apartment Page
+![Find Apartment](Moqups/Find Apartment.png)
+
+### Search results Page
+![Search Results](Moqups/Search Results.png)
